@@ -88,7 +88,7 @@
       "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product9.jpg",
       "sale": "-77%",
       "rate": 4,
-      "categoryId": 9
+      "categoryId": 1
     },
     {
       "id": 9,
@@ -98,7 +98,7 @@
       "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product10.jpg",
       "sale": "-77%",
       "rate": 4,
-      "categoryId": 10
+      "categoryId": 1
     },
     {
       "id": 10,
